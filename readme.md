@@ -1,4 +1,4 @@
-## A Machine Learning Projects 
+## Machine Learning Projects 
 practicals from "Hands-on Machine Learning with Scikit Learn and TensorFlow" Aurelien Geron
 
 ### Dependencies
