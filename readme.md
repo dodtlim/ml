@@ -32,4 +32,4 @@ Practicals from "Hands-on Machine Learning with Scikit Learn and TensorFlow" Aur
 ### License
 
 - to be updated
-- current License[<https://github.com/ageron/handson-ml2/blob/master/LICENSE]>
+- current License[https://github.com/ageron/handson-ml2/blob/master/LICENSE]
